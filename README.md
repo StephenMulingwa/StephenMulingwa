@@ -1,3 +1,6 @@
+
+![what-is-data-science](https://github.com/StephenMulingwa/StephenMulingwa/assets/147252479/df15b749-2ee9-4e0b-9de1-8f443034df57)
+
 ## Hi there 👋
 
 

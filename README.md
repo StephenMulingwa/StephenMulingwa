@@ -16,10 +16,9 @@ I’m a data professional with a solid foundation in **Statistics** and hands-on
 
 ## 💻 What I'm Working On
 
-- 🚀 Building an **AI-powered agricultural assistant** app at TaiStat
-- 🧠 Developing **offline hotel data analytics systems** with SQL + Python
-- 🤖 Enhancing chatbot automation using **LLMs** and **context memory**
-- 💬 Supporting international clients with **ML model deployment**
+- 👨‍🏫 Freelance tutoring in **Data Science** and **Machine Learning**, empowering learners worldwide
+- 🤖 Enhancing chatbot automation using **LLMs** and **context memory**  
+- 💬 Supporting international clients with **ML model deployment** and applied AI projects  
 
 ## 🛠️ My Tech Stack
 
@@ -41,7 +40,7 @@ I’m a data professional with a solid foundation in **Statistics** and hands-on
 Power BI • Tableau • Seaborn • Matplotlib • Excel  
 
 **Cloud & DevOps**  
-Render • Docker • Firebase • GitHub Actions  
+Render • Docker • Firebase • GitHub Actions • Hugging Face
 
 **Languages**  
 English (Fluent) • Swahili (Fluent) • French (Beginner)

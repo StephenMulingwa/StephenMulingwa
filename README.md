@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Stephen Mulingwa!
 
-🎯 **Data Scientist | Machine Learning Engineer | AI for Agriculture Advocate**  
+🎯 **Data Scientist | Machine Learning Engineer | AI Practitioner**  
 📍 Based in Nairobi, Kenya  
 🌍 Passionate about data-driven solutions for Africa's pressing challenges
 

@@ -14,16 +14,12 @@ I’m a data professional with a solid foundation in **Statistics** and hands-on
 - 🎓 Graduate in **Statistics**, plus advanced training in **Data Science**
 - 🌱 Currently exploring **Edge AI**, **AI4D**, and **scalable ML pipelines**
 
----
-
 ## 💻 What I'm Working On
 
 - 🚀 Building an **AI-powered agricultural assistant** app at TaiStat
 - 🧠 Developing **offline hotel data analytics systems** with SQL + Python
 - 🤖 Enhancing chatbot automation using **LLMs** and **context memory**
 - 💬 Supporting international clients with **ML model deployment**
-
----
 
 ## 🛠️ My Tech Stack
 
@@ -50,13 +46,9 @@ Render • Docker • Firebase • GitHub Actions
 **Languages**  
 English (Fluent) • Swahili (Fluent) • French (Beginner)
 
----
-
 ## 📈 GitHub Stats
 
 ![Stephen Mulingwa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMulingwa&layout=compact&theme=radical)
-
----
 
 ## ✨ What Makes Me Unique?
 
@@ -65,13 +57,10 @@ English (Fluent) • Swahili (Fluent) • French (Beginner)
 - 🌍 I’m driven by impact and aligned with **UN SDGs**, especially food security & innovation
 - 🧩 I believe AI should be **accessible**, **ethical**, and **localized**
 
----
-
 ## 📫 How to Reach Me
 
-📧 Email: [taistatfirm@gmail.com](mailto:taistatfirm@gmail.com)  
+📧 Email: [mulingwastephen200@gmail.com](mailto:mulingwastephen200@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/stephenmulingwa)  
-🌐 [TaiStat Website](https://taistat-firm.com)  
 📁 [GitHub Portfolio](https://github.com/StephenMulingwa)
 
 ---

@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I’m a data professional with a solid foundation in **Statistics** and hands-on experience in **Data Science**, **Machine Learning**, and **AI integration** for real-world applications — particularly in **agriculture** and **finance**.
+I’m a data professional with a solid foundation in **Statistics** and hands-on experience in **Data Science**, **Machine Learning**, and **AI integration** for real-world applications particularly in **agriculture** and **finance**.
 
 - 📊 5+ years of experience in **Python** and **data analytics**
 - 🧪 Built AI-driven platforms to improve farm productivity and market access

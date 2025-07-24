@@ -59,7 +59,7 @@ English (Fluent) • Swahili (Fluent) • French (Beginner)
 ## 📫 How to Reach Me
 
 📧 Email: [mulingwastephen200@gmail.com](mailto:mulingwastephen200@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/stephenmulingwa)  
+🔗 [LinkedIn](https://www.linkedin.com/in/stephen-mulingwa/)  
 📁 [GitHub Portfolio](https://github.com/StephenMulingwa)
 
 ---

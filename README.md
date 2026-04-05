@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulingwa-stephen/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StephenMulingwa)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulingwastephen200@gmail.com)
-[![Portfolio](https://stephenmulingwa.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stephenmulingwa.com/)
 
 <br/>
 
@@ -101,10 +101,13 @@ class StephenMulingwa:
 
 ## 📈 GitHub Stats
 
+<!-- ⚠️ Replace YOUR-VERCEL-URL with your own deployed instance of github-readme-stats -->
+<!-- Fork & deploy from: https://github.com/anuraghazra/github-readme-stats -->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephenMulingwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenMulingwa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-YOUR-VERCEL-URL.vercel.app/api?username=StephenMulingwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=StephenMulingwa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 

@@ -101,13 +101,10 @@ class StephenMulingwa:
 
 ## 📈 GitHub Stats
 
-<!-- ⚠️ Replace YOUR-VERCEL-URL with your own deployed instance of github-readme-stats -->
-<!-- Fork & deploy from: https://github.com/anuraghazra/github-readme-stats -->
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-YOUR-VERCEL-URL.vercel.app/api?username=StephenMulingwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=StephenMulingwa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StephenMulingwa&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StephenMulingwa&theme=tokyonight"/>
 
 </div>
 
@@ -157,7 +154,7 @@ class StephenMulingwa:
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulingwa-stephen/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulingwastephen200@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StephenMulingwa)
+[![Portfolio](https://img.shields.io/badge/Explore%20My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stephenmulingwa.com/)
 
 </div>
 
